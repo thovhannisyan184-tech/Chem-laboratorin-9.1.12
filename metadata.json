@@ -1,0 +1,6 @@
+{
+  "name": "Քիմիա 8 · § 1.9 Ծծմբի (IV) օքսիդի տարածման ուսումնասիրություն",
+  "description": "Ինտերակտիվ 3D վիրտուալ լաբորատոր սիմուլյատոր 8-րդ դասարանի քիմիայի «§ 1.9 Ծծմբի (IV) օքսիդի տարածման ուսումնասիրություն» թեմայով՝ հիմնված Drag-and-Drop գործողությունների վրա։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
